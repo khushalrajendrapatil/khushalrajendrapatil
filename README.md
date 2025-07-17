@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushal Patil</h1>
-<h3 align="center">A Passionate Full-Stack Python Developer | AI/ML | Data Analyst | UI/UX Designer</h3>
+<h3 align="center">A Passionate Software Engineer | Full-Stack Python/Django Developer | AI/ML & Data Analyst | UI/UX & Graphic Designer</h3>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
@@ -101,12 +101,12 @@
 
 ## 🔭 Projects & Contributions
 
-- 🎓 [Classroom Management Android Application](https://github.com/khushalrajendrapatil/Classroom-Management-Android-Application)  
-- 🔐 [Secure File Storage and Sharing System](https://github.com/khushalrajendrapatil/Secure-File-Storage-and-Sharing)  
-- 🏠 [Home Steader Management System](https://github.com/khushalrajendrapatil/Home-Steader-Management-System)  
-- 📚 [The Book Wheel](https://github.com/khushalrajendrapatil/The-Book-Wheel)  
+- 💼 [Infoten - Company Website](https://github.com/khushalrajendrapatil/Infoten)
 - 🌐 [OneParivaar - Company Website](https://github.com/khushalrajendrapatil/oneparivaar)  
-- 💼 [Infoten - Company Website](https://github.com/khushalrajendrapatil/Infoten)  
+- 📚 [The Book Wheel - Course Project](https://github.com/khushalrajendrapatil/The-Book-Wheel)
+- 🏠 [Home Steader Management System - Course Project](https://github.com/khushalrajendrapatil/Home-Steader-Management-System)  
+- 🔐 [Secure File Storage and Sharing System - B.tech project](https://github.com/khushalrajendrapatil/Secure-File-Storage-and-Sharing)
+- 🎓 [Classroom Management Android Application - Diploma Project](https://github.com/khushalrajendrapatil/Classroom-Management-Android-Application)
 
 🔗 Explore more on my [GitHub Repositories](https://github.com/khushalrajendrapatil?tab=repositories)
 
@@ -132,9 +132,9 @@
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/khushalrpatil"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white"/></a>
+  <a href="https://www.behance.net/khushalrajendrapatil"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/khushalrpatil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a>
   <a href="mailto:pkhushal8877@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.behance.net/khushalrajendrapatil"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
   <a href="https://www.instagram.com/bunty_patil__8877/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.facebook.com/khushal.patil.8877"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
