@@ -1,16 +1,14 @@
 <img align="right" alt="Data Scientist" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-# Hi 👋, I'm Khushal Patil
+# Hi there! 👋 I'm Khushal Patil
+
 ### Software Engineer | Full-Stack Python/Django Developer | AI/ML & Data Analytics | UI/UX & Graphic Designer
 
-- 🎓 Completed AlmaBetter's *Full Stack Data Science* course
-[Certificate](https://certificates.almabetter.com/en/verify/97660691695549)
-- 💬 Ask me about *Data Science, Data Analysis, Python, SQL*
-- 📫 Reach me at *pkhushal8877@gmail.com*
-- ⚡ Passionate about *Artificial Intelligence*
-- 👨‍💻 All of my projects are available on
-[GitHub](https://github.com/khushalrajendrapatil)
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/khushalrpatil/)
+- 🎓 Completed my B.Tech in 2024 with a 7.8 CGPA, also pursued a Full Stack Python Developer course.
+- 💬 Ask me about Software Engineering, Full-Stack Development, AI/ML, Data Analytics, UI/UX Design, and more!
+- 📫 Reach me at [pkhushal8877@gmail.com](mailto:pkhushal8877@gmail.com)
+- 👨‍💻 Explore my projects on [GitHub](https://github.com/khushalrajendrapatil)
+- 📝 I write articles on [LinkedIn](https://www.linkedin.com/in/khushalrpatil/)
 
 ## Connect with me:
 <p>
