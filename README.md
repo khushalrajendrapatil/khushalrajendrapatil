@@ -1,135 +1,144 @@
-<img align="right" alt="Data Scientist" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<h1 align="center">Hi 👋, I'm Khushal Patil</h1>
+<h3 align="center">A Passionate Full-Stack Python Developer | AI/ML | Data Analyst | UI/UX Designer</h3>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Khushal+Patil!;Software+Engineer+%7C+Django+Dev+%7C+AI%2FML+%7C+UI%2FUX+Designer" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Completed **B.Tech in 2024** with **7.8 CGPA**
-- 💻 Certified **Full Stack Python Developer**
-- 💬 Ask me about: `Python | Django | ML/AI | UI/UX | Data Science`
-- 📫 Reach me at: **pkhushal8877@gmail.com**
-- 👨‍💻 View my work: [GitHub](https://github.com/khushalrajendrapatil)
-- 📝 Articles on: [LinkedIn](https://www.linkedin.com/in/khushalrpatil/)
+💡 I'm enthusiastic about learning emerging technologies and building smart, scalable software solutions.  
+✍️ In my free time, I freelance in **App, Website, UI/UX, and Graphic Design**, and enjoy writing technical blogs.  
+🎓 I Completed my **B.Tech in 2024**, scoring **7.8 CGPA** from **DBATU University**  
+💻 Certified **Full Stack Python Developer**  
+💬 Ask me about: **Python | Data Science | Data Analytics | AI/ML | UI/UX & Graphic Design**  
+📫 How to reach me: **pkhushal8877@gmail.com**  
+🔗 Explore my work on [GitHub](https://github.com/khushalrajendrapatil)  
+📝 I regularly share articles and insights on [LinkedIn](https://www.linkedin.com/in/khushalrpatil/)  
+📄 Résumé: [Click here](https://drive.google.com/file/d/1QHVvS9ccLw4XKY3DWaRtWU2NaPCDTP5q/view?usp=sharing) for a detailed overview of my background.
 
 ---
 
-## 🌐 Connect with me:
-<p>
-  <a href="https://www.linkedin.com/in/khushalrpatil/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/khushalrpatil" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/bunty_patil__8877/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+## 🧠 Skills & Tech Stack
+
+- **Languages & Frameworks**:  
+  Python (Django, Flask, REST API, FastAPI, Pyramid), R, Basic C  
+
+- **AI/ML & GenAI**:  
+  Hugging Face, LangChain, OpenCV, Speech AI, OpenAI, Coqui AI, DeepL, spaCy, Scikit-learn, PyTorch, TensorFlow  
+
+- **Data Science & Analytics**:  
+  Pandas, PySpark, NumPy, Tableau, Power BI, MS Excel  
+
+- **Frontend & Web**:  
+  HTML5, CSS3, JavaScript, Bootstrap, jQuery, JSON, Jinja2, Basic Angular & React  
+
+- **Databases**:  
+  SQLite, PostgreSQL, MySQL, PL/SQL  
+
+- **Tools & DevOps**:  
+  Git, GitHub, Postman, Jenkins, Docker, AWS, VS Code, PyCharm, WordPress  
+
+- **UI/UX & Design**:  
+  Figma, Canva, Photoshop, CorelDRAW, PageMaker  
 
 ---
 
-## 🧠 Experience
+## 🏢 Work & Internship Experience
 
-**🐍 Python Developer Intern**  
-_Sciatius Research — Remote | Jan 2025 – Mar 2025_  
-**Tech Stack:** Django, React, PostgreSQL, Three.js, OpenAI, Coqui AI, DeepL, AWS  
-• Built 3D interactive website using **Three.js**  
-• Developed voice translator using **OpenAI Whisper**, **Coqui AI**, **DeepL**
-
----
-
-**🧪 Python Django Intern**  
-_iStreet Technologies, Pune | Nov 2024 – Jan 2025_  
-**Tech Stack:** Django, REST API, SQLite, HTML, CSS, Bootstrap, Docker, Jenkins  
-• Developed client-facing apps with Django & Bootstrap  
-• Managed database with SQLite and CI/CD via Jenkins
+### 🐍 Python Developer Intern — *Sciatius Research*  
+📍 Remote &nbsp; | &nbsp; 🗓️ *Jan 2025 – Mar 2025*  
+**Tech Stack**: Python, Django, REST API, React, PostgreSQL, Three.js, OpenAI, Coqui AI, DeepL, spaCy, AWS  
+- Developed responsive 3D web interfaces with **Three.js**  
+- Built an AI-powered voice translation platform using **Whisper**, **DeepL**, **Coqui AI**  
+- Deployed to cloud with AWS, Jenkins, and Docker  
 
 ---
 
-**📑 Junior Executive**  
-_MDIndia Healthcare Services, Pune | Mar 2024 – Oct 2024_  
-**Tools:** MS Excel, Word, PowerPoint, Slack  
-• Processed claims, maintained medical data & reports
+### 💻 Python Django Intern — *iStreet Technologies Pvt. Ltd., Pune*  
+📍 Onsite &nbsp; | &nbsp; 🗓️ *Nov 2024 – Jan 2025*  
+**Tech Stack**: Django, REST API, SQLite, HTML, CSS, JavaScript, Bootstrap, Git, Jenkins, Docker  
+- Built and deployed dashboards using Django  
+- Designed front-end with Bootstrap and integrated APIs  
+- Managed source control and CI/CD via GitHub and Jenkins  
 
 ---
 
-**💻 Junior Software Engineer Intern**  
-_Cravita Technologies, Pune | Jul 2023 – Feb 2024_  
-**Tech Stack:** Django, Flask, MySQL, jQuery, Bootstrap  
-• Built scalable backends, REST APIs, and dashboards
+### 📑 Junior Executive — *MDIndia Healthcare Services (TPA) Pvt. Ltd., Pune*  
+📍 Onsite &nbsp; | &nbsp; 🗓️ *Mar 2024 – Oct 2024*  
+**Tools Used**: Excel, Word, Slack, Health Claims Portal  
+- Processed and validated health insurance claims  
+- Maintained accurate records for audits and compliance  
 
 ---
 
-**🎨 UI/UX & Graphic Designer**  
-_Sunet Computers, Jalgaon | Aug 2019 – Dec 2022_  
-**Tools:** Figma, Canva, Photoshop, CorelDRAW  
-• Designed logos, media, animations, websites, catalogs
+### 🧪 Junior Software Engineer Intern — *Cravita Technologies India Pvt. Ltd., Pune*  
+📍 Onsite &nbsp; | &nbsp; 🗓️ *Jul 2023 – Feb 2024*  
+**Tech Stack**: Django, Flask, REST API, HTML, CSS, Bootstrap, jQuery, MySQL  
+- Developed scalable RESTful APIs and backend logic  
+- Created responsive UI components and dashboards  
+- Collaborated using Git, Jenkins, Docker  
 
 ---
 
-**🌐 Web Developer Intern**  
-_NP IT Solutions, Nashik | Jun 2020 – Nov 2020_  
-**Tech Stack:** HTML, CSS, JavaScript, Bootstrap, jQuery  
-• Built visually appealing, responsive websites
+### 🎨 UI/UX & Graphic Designer — *Sunet Computers, Jalgaon*  
+📍 Remote &nbsp; | &nbsp; 🗓️ *Aug 2019 – Dec 2022*  
+**Tools**: Photoshop, Figma, Canva, CorelDRAW, PageMaker  
+- Designed marketing materials, posters, logos, menus, and website mockups  
+- Delivered brand-consistent visual content for clients  
 
 ---
 
-## 💻 Tech Expertise
-
-**Languages & Frameworks**  
-`Python` • `Django` • `Flask` • `FASTAPI` • `Pyramid` • `HTML5` • `CSS3` • `JavaScript` • `React` • `Angular (Basic)` • `R` • `C`
-
-**ML / AI**  
-`OpenAI API` • `Whisper` • `LangChain` • `Hugging Face` • `spaCy` • `Coqui AI` • `DeepL` • `OpenCV` • `Scikit-Learn` • `TensorFlow` • `PyTorch` • `GenAI` • `Speech AI` • `Basic NLP`
-
-**Databases**  
-`PostgreSQL` • `MySQL` • `SQLite` • `PL/SQL`
-
-**Data / Analytics**  
-`Pandas` • `NumPy` • `PySpark` • `Tableau` • `Power BI` • `MS Excel`
-
-**Dev Tools / Cloud**  
-`Git & GitHub` • `Postman` • `Docker` • `Jenkins` • `AWS` • `VS Code` • `XAMPP` • `WordPress`
-
-**UI/UX Design**  
-`Figma` • `Canva` • `Photoshop` • `CorelDRAW` • `PageMaker`
+### 🌐 Web Developer Intern — *NP IT Solutions, Nashik*  
+📍 Remote &nbsp; | &nbsp; 🗓️ *Jun 2020 – Nov 2020*  
+**Tech Stack**: HTML5, CSS3, JavaScript, Bootstrap, jQuery  
+- Built responsive, visually appealing websites  
+- Collaborated on layout, color themes, and UX features  
 
 ---
 
-## 🛠️ Tools I Use
+## 🔭 Projects & Contributions
 
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
-</p>
+- 🎓 [Classroom Management Android Application](https://github.com/khushalrajendrapatil/Classroom-Management-Android-Application)  
+- 🔐 [Secure File Storage and Sharing System](https://github.com/khushalrajendrapatil/Secure-File-Storage-and-Sharing)  
+- 🏠 [Home Steader Management System](https://github.com/khushalrajendrapatil/Home-Steader-Management-System)  
+- 📚 [The Book Wheel](https://github.com/khushalrajendrapatil/The-Book-Wheel)  
+- 🌐 [OneParivaar - Company Website](https://github.com/khushalrajendrapatil/oneparivaar)  
+- 💼 [Infoten - Company Website](https://github.com/khushalrajendrapatil/Infoten)  
+
+🔗 Explore more on my [GitHub Repositories](https://github.com/khushalrajendrapatil?tab=repositories)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushalrajendrapatil&show_icons=true&theme=radical" alt="Khushal's GitHub Stats" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=khushalrajendrapatil&show_icons=true&theme=radical" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushalrajendrapatil&theme=radical" />
 </p>
+
+---
+
+## ✨ Fun Fact
+
+💭 I design better when I’m listening to lo-fi beats and debugging at 2 AM.  
+🧠 “Sleep is for the garbage collector, not the developer.” 😄
+
+---
+
+## 🤝 Connect with Me
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalrajendrapatil&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://www.hackerrank.com/profile/khushalrpatil"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/khushalrpatil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a>
+  <a href="mailto:pkhushal8877@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.behance.net/khushalrajendrapatil"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+  <a href="https://www.instagram.com/bunty_patil__8877/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/khushal.patil.8877"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
+
+---
+
+> Thanks for visiting my profile! Don’t forget to ⭐️ your favorite repositories!
