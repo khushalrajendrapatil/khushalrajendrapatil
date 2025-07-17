@@ -111,13 +111,29 @@
 🔗 Explore more on my [GitHub Repositories](https://github.com/khushalrajendrapatil?tab=repositories)
 
 ---
+## 🏆 GitHub Trophies
 
-## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khushalrajendrapatil&theme=gruvbox&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📈 GitHub Stats & Activity
 
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=khushalrajendrapatil&show_icons=true&theme=radical" />
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushalrajendrapatil&theme=radical" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushalrajendrapatil&theme=react-dark&hide_border=true" />
+</p>
+
+---
+ 
+## 📝 Latest Blog Posts  
+Want to auto-show your blog posts from Medium, Dev.to, or Hashnode here? Let me know and I’ll help you set it up! 
 
 ---
 
