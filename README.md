@@ -19,10 +19,13 @@
 
 ## 🌐 Connect with me:
 <p>
+  <a href="https://www.hackerrank.com/profile/khushalrpatil" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
   <a href="https://www.linkedin.com/in/khushalrpatil/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/profile/khushalrpatil" target="_blank">
+  <a href="https://www.instagram.com/bunty_patil__8877/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
 </p>
@@ -31,7 +34,7 @@
 
 ## 🧠 Experience
 
-**🐍 Python Developer**  
+**🐍 Python Developer Intern**  
 _Sciatius Research — Remote | Jan 2025 – Mar 2025_  
 `Django, React, PostgreSQL, Three.js, OpenAI, Coqui AI, DeepL, AWS`  
 • Built a 3D interactive website using **Three.js**  
@@ -54,7 +57,7 @@ _MDIndia Healthcare Services, Pune | Mar 2024 – Oct 2024_
 
 ---
 
-**💻 Junior Software Engineer**  
+**💻 Junior Software Engineer Intern**  
 _Cravita Technologies, Pune | Jul 2023 – Feb 2024_  
 `Django, Flask, MySQL, jQuery, Bootstrap`  
 • Created scalable backend systems & interactive UIs  
