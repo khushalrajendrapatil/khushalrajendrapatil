@@ -1,16 +1,19 @@
 <img align="right" alt="Data Scientist" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-# Hi there! 👋 I'm Khushal Patil
+# 👋 Hi there! I'm Khushal Patil
 
-### Software Engineer | Full-Stack Python/Django Developer | AI/ML & Data Analytics | UI/UX & Graphic Designer
+### 🚀 Software Engineer | Full-Stack Python/Django Developer | AI/ML & Data Analytics | UI/UX & Graphic Designer
 
-- 🎓 Completed my B.Tech in 2024 with a 7.8 CGPA, also pursued a Full Stack Python Developer course.
-- 💬 Ask me about Software Engineering, Full-Stack Development, AI/ML, Data Analytics, UI/UX Design, and more!
-- 📫 Reach me at [pkhushal8877@gmail.com](mailto:pkhushal8877@gmail.com)
-- 👨‍💻 Explore my projects on [GitHub](https://github.com/khushalrajendrapatil)
-- 📝 I write articles on [LinkedIn](https://www.linkedin.com/in/khushalrpatil/)
+- 🎓 Completed **B.Tech in 2024** with **7.8 CGPA**
+- 🎯 Certified **Full Stack Python Developer**
+- 💬 Ask me about: `Python | Django | ML/AI | UI/UX | Data Science`
+- 📫 Reach me at: **pkhushal8877@gmail.com**
+- 👨‍💻 View my work: [GitHub](https://github.com/khushalrajendrapatil)
+- 📝 Articles on: [LinkedIn](https://www.linkedin.com/in/khushalrpatil/)
 
-## Connect with me:
+---
+
+## 🌐 Connect with me:
 <p>
     <a href="https://www.linkedin.com/in/khushalrpatil/" target="_blank"><img
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -20,7 +23,36 @@
             alt="HackerRank" height="30" width="40" /></a>
 </p>
 
-## Languages and Tools:
+---
+
+## 💻 Tech Expertise
+
+### 🧠 Programming Languages & Development
+`Python (Django, Flask, REST API, FASTAPI, Pyramid)` • `R` • `Basic C`
+
+### 🤖 Machine Learning & AI
+`Hugging Face` • `LangChain` • `OpenCV` • `Speech AI` • `GenAI` • `Basic NLP` • `OpenAI API` •  
+`Scikit-Learn` • `PyTorch` • `TensorFlow`
+
+### 📊 Data & Analytics
+`Pandas` • `PySpark` • `NumPy` • `Tableau` • `Power BI` • `MS Office Suite (Word, Excel, PowerPoint)`
+
+### 🌐 Web Technologies
+`HTML5` • `CSS3` • `JavaScript (Bootstrap, jQuery, Jinja2, JSON)` • `Basic Angular & React`
+
+### 🗃️ Databases
+`SQL (PL/SQL)` • `SQLite` • `PostgreSQL`
+
+### ⚙️ Software & Tools
+`Git & GitHub` • `Postman` • `AWS` • `Jenkins` • `Docker` • `WordPress` •  
+`VS Code` • `PyCharm` • `XAMPP` • `Developer Tools`
+
+### 🎨 UI/UX & Graphics
+`Figma` • `Canva` • `Photoshop`
+
+---
+
+## 🧰 Languages and Tools
 <p>
     <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg"
             alt="Django" width="40" height="40" /></a>
@@ -48,4 +80,7 @@
             src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" /></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-ad&layout=compact)
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushalrajendrapatil&layout=compact&theme=radical)
+
