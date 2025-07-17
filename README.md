@@ -133,7 +133,9 @@
 ---
  
 ## 📝 Latest Blog Posts  
-Want to auto-show your blog posts from Medium, Dev.to, or Hashnode here? Let me know and I’ll help you set it up! 
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
