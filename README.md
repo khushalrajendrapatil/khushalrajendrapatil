@@ -131,11 +131,15 @@
 </p>
 
 ---
- 
+
 ## 📝 Latest Blog Posts  
+
+Check out my latest writings on Medium:
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+👉 Follow me on [Medium](https://medium.com/@khushalrajendrapatil)
 
 ---
 
