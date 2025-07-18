@@ -15,4 +15,4 @@ jobs:
       - name: Blog Post Workflow
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/feed/@khushalrajendrapatil"
+          feed_list: "https://medium2rss.vercel.app/@khushalrajendrapatil"
